@@ -1,7 +1,7 @@
 # CMPG-323-Overview-21849633
 ### Repository Ovverview
 
-The project 1 will be the main project using thr e following repository:   
+The project 1 will be the main project using the following repository:   
 
 https://github.com/PCM1303/CMPG-323-Overview-21849633
 
