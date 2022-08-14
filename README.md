@@ -3,7 +3,9 @@
 
 The project 1 will be the main project using thr e following repository "CMPG-323-Overview-21849633
 Project 2-5 and the exam POE will have separate small projects and separate repositories.
-A regular update will be done on the main project
+A regular update will be done on the main projects
+The Exam Project will be based on the five projects as indicated on the diagram.
+Please refer to the diagram below for the projects and repositories.
 
 ### Diagram ON Projects and Repositories!
 
