@@ -7,4 +7,8 @@ A regular update will be done on the main project
 
 ### Diagram ON Projects and Repositories!
 
+### Branching Stratergy
+There will be no branches deveolped on the projects
 
+### Sensitive information  Storage
+The information will be stored safely in cloud(AZURE) andthe file name will be includec int the .gitignore.
