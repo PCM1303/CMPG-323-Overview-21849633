@@ -7,6 +7,9 @@ A regular update will be done on the main project
 
 ### Diagram ON Projects and Repositories!
 
+![PROJECT OVERVIEW](https://user-images.githubusercontent.com/89711680/184551147-4ded40d5-37da-45c3-90a0-79c04dfe6f6e.png)
+
+
 ### Branching Stratergy
 There will be no branches deveolped on the projects
 
