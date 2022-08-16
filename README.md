@@ -26,7 +26,10 @@ Please refer to the diagram below for the project names and their repositories.
 ![PROJECT OVERVIEW](https://user-images.githubusercontent.com/89711680/184971810-9c375ea0-c5ee-4cee-a563-852b82668014.png)
 
 ### Branching Stratergy
-There will be no branches deveolped on the projects
+I might create branches for some of the projects inorder to avoid making mistakes on the main project. 
+
+### Gitignore Strategy
+The .gitignore might be used if there are some portions of my work that I do not want to share or make available on my github profile.
 
 ### Sensitive information  Storage
 The information will be stored safely in cloud(AZURE) andthe file name will be includec int the .gitignore.
