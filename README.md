@@ -24,6 +24,7 @@ Please refer to the diagram below for the projects and repositories.
 
 ![PROJECT OVERVIEW](https://user-images.githubusercontent.com/89711680/184551147-4ded40d5-37da-45c3-90a0-79c04dfe6f6e.png)
 
+![PROJECT OVERVIEW](https://user-images.githubusercontent.com/89711680/184971810-9c375ea0-c5ee-4cee-a563-852b82668014.png)
 
 ### Branching Stratergy
 There will be no branches deveolped on the projects
