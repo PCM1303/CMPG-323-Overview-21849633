@@ -16,7 +16,7 @@ https://github.com/PCM1303/Project-5-Reporting-and-Monitoring
 
 https://github.com/PCM1303/Exam-Project-Portfolio-Of-Evidence
 
-The main project is Project 1, which is the overview of the whole semester. % projects will be created separately with their own repositories and the will feed the main project. Regular updates will be done on the main project with input from the 5 pther projects.
+The main project is Project 1, which is the overview of the whole semester. 5 projects will be created separately with their own repositories and the will feed the main project. Regular updates will be done on the main project with input from the 5 other projects.
 The Exam Project will be based on the five projects as indicated on the diagram.
 Please refer to the diagram below for the project names and their repositories.
 
