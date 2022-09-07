@@ -78,9 +78,15 @@ Categories<br>
 Devices and <br>
 Zones<br>
 
-##Security
-Security has been implemented using a token.
-Refer to the attachment submitted for the specific token
+## Security
+Security has been implemented using a token.<br>
+Refer to the attachment submitted for the specific token<br>
 
+## Project Hosting
 
+The API has been hosted on Azure.<br>
+The following link will be used to access the API:
+https://.......
 
+More Details on the project can be found at the following repository: <br>
+CMPG323 Project 2-21849633<br>
