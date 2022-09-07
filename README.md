@@ -48,11 +48,39 @@ https://www.udemy.com/share/101WxW3@OO-HxniXxMOIRyndAq7viYYzWKlf-a1e9oQBI1kO-Ukr
 Date accessed: 01 August 2022
 
 # PROJECT 2 API 
+## Overview
+
+The project details will be found under the ReadMe file inthe project Repository<br>
+Below is an overview of how the API was created.
 
 Created an Azure account and and Azure-Database<br>
 Created my API using Visual Studio(C#) and cloned the project to a new repository.<br>
-Created a new project on Github namely: <br>
+CMPG323 Project 2-21849633<br>
+Created a new project on Github namely:Project 2 DevelopAPI <br>
  
-##
+## Packages installed
+
+Microsoft.AspNetCore.Authentication.JwtBearer<br>
+Microsoft.AspNetCore.Identity<br>
+Microsoft.AspNetCore.Identity.EntityFrameworkCore<br>
+Microsoft.EntityFrameworkCore<br>
+Microsoft.EntityFrameworkCore.Design<br>
+Microsoft.EntityFrameworkCore.SqlServer<br>
+Microsoft.EntityFrameworkCore.Tools<br>
+Microsoft.OpenApi<br>
+Microsoft.VisualStudio.Web.CodeGenerator.Design<br>
+Swashbuckle.AspNetCore<br>
+
+## Controllers
+
+Authenticate<br> 
+Categories<br>
+Devices and <br>
+Zones<br>
+
+##Security
+Security has been implemented using a token.
+Refer to the attachment submitted for the specific token
+
 
 
