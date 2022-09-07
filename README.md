@@ -89,4 +89,4 @@ The following link will be used to access the API:
 https://.......
 
 More Details on the project can be found at the following repository: <br>
-CMPG323 Project 2-21849633<br>
+CMPG323 Project 2-21849633--ReadMe file.<br>
