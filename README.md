@@ -46,3 +46,13 @@ Course completed: 03 August2022
 
 https://www.udemy.com/share/101WxW3@OO-HxniXxMOIRyndAq7viYYzWKlf-a1e9oQBI1kO-UkrYK7n9KuHKYcymJcuywleqQ==/
 Date accessed: 01 August 2022
+
+# PROJECT 2 API 
+
+Created an Azure account and and Azure-Database<br>
+Created my API using Visual Studio(C#) and cloned the project to a new repository.<br>
+Created a new project on Github namely: <br>
+ 
+##
+
+
