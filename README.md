@@ -90,3 +90,7 @@ https://.......
 
 More Details on the project can be found at the following repository: <br>
 CMPG323 Project 2-21849633--ReadMe file.<br>
+
+## BRANCHING
+Branching was used on the project to do source control and assist in avoiding destructive errors.<br>
+
