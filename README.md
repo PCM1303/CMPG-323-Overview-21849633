@@ -93,4 +93,5 @@ CMPG323 Project 2-21849633--ReadMe file.<br>
 
 ## BRANCHING
 Branching was used on the project to do source control and assist in avoiding destructive errors.<br>
+12 Branches including the master were used with 
 
