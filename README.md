@@ -32,7 +32,7 @@ I might create branches for some of the projects inorder to avoid making mistake
 The .gitignore might be used if there are some portions of my work that I do not want to share or make available on my github profile.
 
 ## Sensitive information  Storage
-The information will be stored safely in cloud(AZURE) andthe file name will be includec int the .gitignore.
+The information will be stored in a file that will be included int the .gitignore.
 
 ## References:
 
@@ -56,8 +56,10 @@ Below is an overview of how the API was created.
 Created an Azure account and and Azure-Database<br>
 Created my API using Visual Studio(C#) and cloned the project to a new repository.<br>
 CMPG323 Project 2-21849633<br>
-Created a new project on Github namely:Project 2 DevelopAPI <br>
- 
+Created a new project on Github namely:<br>
+Project 2 DevelopAPI <br>
+Project link: https://github.com/users/PCM1303/projects/9
+
 ## Packages installed
 
 Microsoft.AspNetCore.Authentication.JwtBearer<br>
