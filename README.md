@@ -100,3 +100,46 @@ Branching was used on the project to do source control and assist in avoiding de
 ## Secure Credentials
 
 appsettings.json file added to gitIgnore since it contains my credentials.
+
+# PROJECT 3 Standards and Patterns
+
+## Overview
+
+The project details will be found under the ReadMe file int he project Repository<br>
+Below is an overview of how the API was created.
+
+The project was forked from JacquiM and cloned to the repository below<br>
+Created my API using Visual Studio(C#) and cloned the project to a new repository.<br>
+CMPG323 Project 3-21849633<br>
+Created a new project on Github namely:<br>
+Project 3 Standards and Patterns <br>
+Project link: https://github.com/users/PCM1303/projects/10
+
+
+## Controllers
+
+Home<br> 
+Categories<br>
+Devices and <br>
+Zones<br>
+
+## Security
+Security has been implemented using a username and Password.<br>
+
+
+## Project Hosting
+
+The API has been hosted on Azure.<br>
+The following link will be used to access the API:
+https://.......
+
+More Details on the project can be found at the following repository: <br>
+CMPG323 Project 3-21849633--ReadMe file.<br>
+
+## BRANCHING
+Branching was used on the project to do source control and assist in avoiding destructive errors.<br>
+????/ Branches including the master were used with 22 pull requests.<br>
+
+## Secure Credentials
+
+appsettings.json file added to gitIgnore since it contains my credentials.
