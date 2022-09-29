@@ -6,13 +6,13 @@ The project 1 will be the main project using the following repository:
 https://github.com/PCM1303/CMPG-323-Overview-21849633
 
 Project 2-5 and the exam POE will have separate small projects and separate repositories on the following links:
-https://github.com/PCM1303/Project-2-Develop-API
+https://github.com/PCM1303/Project-2-21849633
 
-https://github.com/PCM1303/Project-3-Patterns-and-Standards
+https://github.com/PCM1303/Project-3-21849633
 
-https://github.com/PCM1303/Project-4-Testing-and-RPA
+https://github.com/PCM1303/Project-4-21849633
 
-https://github.com/PCM1303/Project-5-Reporting-and-Monitoring
+https://github.com/PCM1303/Project-5-21849633
 
 https://github.com/PCM1303/Exam-Project-Portfolio-Of-Evidence
 
@@ -112,6 +112,7 @@ The project was forked from JacquiM and cloned to the repository below<br>
 Created my API using Visual Studio(C#) and cloned the project to a new repository.<br>
 CMPG323 Project 3-21849633<br>
 Created a new project on Github namely:<br>
+
 Project 3 Standards and Patterns <br>
 Project link: https://github.com/users/PCM1303/projects/10
 
