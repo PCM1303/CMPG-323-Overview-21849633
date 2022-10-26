@@ -154,20 +154,32 @@ The link to the website is as follows:<br>
 
 HTT......................................<br> 
 
-
 ## Project Creation
-
-A repository was created Namely:<br> 
-
-CMPG 323 Project 4 21849633<br>:
 
 The project was created using UIPATH<br>
 An excel spreadsheet with the data was give to populate on the website.<br> 
 Data has been copied from the excel to the website using RPA(UIPATH)<br> 
 
 ## Project Hosting
-The project was pubilshed on the Ochestrator using UIPATH assistant
+The project was pubilshed on the Ochestrator using UIPATH assistant.
 
 ## Source Control
-The 
+A repository was created Namely:<br> 
+CMPG 323 Project 4 21849633<br>:
+The UIPATH project folder was linked into the repository and constant push and pull were done though out the project.<br>
+
+## Branching
+Only one branch(MASTER) was used throughout the project.
+
+## Data Supplied
+
+[Connected Office Test Data.xlsx](https://github.com/PCM1303/CMPG-323-Overview-21849633/files/9865145/Connected.Office.Test.Data.xlsx)
+
+
+## Conclusion
+More Details on the project can be found at the following repository: <br>
+CMPG323 Project 4-21849633--ReadMe file.<br>
+
+
+
 
