@@ -143,4 +143,31 @@ Branching was used on the project to do source control and assist in avoiding de
 
 ## Secure Credentials
 
-appsettings.json file added to gitIgnore since it contains my credentials.
+appsettings.json file added to gitIgnore since it contains my credentials.<br> 
+
+# PROJECT 4 RPA and TESTING
+
+## Project Overview
+The purpose of this project is to AUTOMATICALLY test the data on a website created in Project 3
+
+The link to the website is as follows:<br> 
+
+HTT......................................<br> 
+
+
+## Project Creation
+
+A repository was created Namely:<br> 
+
+CMPG 323 Project 4 21849633<br>:
+
+The project was created using UIPATH<br>
+An excel spreadsheet with the data was give to populate on the website.<br> 
+Data has been copied from the excel to the website using RPA(UIPATH)<br> 
+
+## Project Hosting
+The project was pubilshed on the Ochestrator using UIPATH assistant
+
+## Source Control
+The 
+
