@@ -198,7 +198,7 @@ I logged in with my hidden credentials<br>
 The file was successfully loaded on the on POWER BI.<br>
 Below is a image to show my data source:<br>
 
-![Data Source](https://user-images.githubusercontent.com/89711680/200931144-ea529080-809c-48f1-a103-9dd6a289d3a0.png)
+![Data Source](https://user-images.githubusercontent.com/89711680/200931144-ea529080-809c-48f1-a103-9dd6a289d3a0.png)<br>
 The Following views were used to create the project:<br>
 STACKED BAR CHART<br>
 STACKED COLUMN CHART<br>
@@ -207,6 +207,8 @@ TIMELINE<br>
 SLICER-Filtering<br>
 TEXTBOX<br>
 SHAPES<br>
+QUESTION & ANSWER
+TREEMAP
 
 ## Project Publishing
 The project was pubilshed on POWER BI service.
