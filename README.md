@@ -178,7 +178,7 @@ Only one branch(MASTER) was used throughout the project.
 More Details on the project can be found at the following repository: <br>
 CMPG323 Project 4-21849633--ReadMe file.<br>
 
-# PROJECT 5 REPORTING AND MONITORING
+# PROJECT 5 REPORTING and MONITORING
 
 ## Project Overview
 
