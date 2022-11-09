@@ -152,8 +152,6 @@ The purpose of this project is to AUTOMATICALLY test the data on a website creat
 
 The link to the website is as follows:<br> 
 
-HTT......................................<br> 
-
 ## Project Creation
 
 The project was created using UIPATH<br>
@@ -180,6 +178,49 @@ Only one branch(MASTER) was used throughout the project.
 More Details on the project can be found at the following repository: <br>
 CMPG323 Project 4-21849633--ReadMe file.<br>
 
+# PROJECT 5 REPORTING AND MONITORING
 
+## Project Overview
+
+The report was built in Power BI, as the organisation already has all applicable licensing agreements in place with Microsoft, 
+and the report is expected to allow all stakeholders to see the same information pertaining to the status of 
+IoT device registrations on various platforms
+
+## Project Creation
+
+The project was created using POWER BI<br>
+
+An excel spreadsheet with the data was shared on sharepoint and it was used ad the data source for the project.<br> 
+A connection was used from POWER BI to Access the folder cotaining the file on Sharepoint(Used Sharepoint Folder)<br>
+The sharepoint folder game the path to the file and the name of the file.<br>
+I copied the full file path including the name and used thwe web functionality on POWER BI to connect to the file.<br>
+I logged in with my hidden credentials<br>
+The file was successfully loaded on the on POWER BI.<br>
+Below is a image to show my data source:<br>
+
+![Data Source](https://user-images.githubusercontent.com/89711680/200931144-ea529080-809c-48f1-a103-9dd6a289d3a0.png)
+The Following views were used to create the project:
+STACKED BAR CHART<br>
+STACKED COLUMN CHART<br>
+LINE CHART<br>
+TIMELINE<br>
+SLICER-Filtering<br>
+TEXTBOX<br>
+SHAPES<br>
+
+## Project Publishing
+The project was pubilshed on POWER BI service.
+
+## Source Control
+A repository was created Namely:<br> 
+CMPG 323 Project 5 21849633<br>:
+The POWER BI project folder was linked into the repository and constant push and pull were done though out the project.<br>
+
+## Branching
+Only one branch(MASTER) was used throughout the project.
+
+## Conclusion
+The functionality of the project can be found at the following repository: <br>
+CMPG323 Project 5-21849633--ReadMe file.<br>
 
 
