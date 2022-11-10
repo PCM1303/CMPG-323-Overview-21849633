@@ -212,7 +212,7 @@ TREEMAP<br>
 
 Additional Column named "AGE" was added to enhace Reports.<br>
 
-A Key Measure(age) was calculated and used in the project<br>
+A Key Measure(age) was calculated and used in the report<br>
 
 ## Project Publishing
 The project was pubilshed on POWER BI service.
